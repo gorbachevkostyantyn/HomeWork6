@@ -1,0 +1,488 @@
+
+
+body{
+
+	width:100%;
+	min-width:96%;
+	font-family: Arial, Helvetica, sans-serif;
+
+	}
+
+.wrapper{
+	
+    width: 910px;
+    margin: 0 auto;
+    
+    }
+
+.header {
+    
+    padding: 13px 0 0 0;
+    
+    }
+
+.telephones{
+	
+	float:left;
+	height:27px;
+	padding:8px 0 0 8px;
+    color:#213a4d;
+
+	}
+
+.telephones img{
+
+	float:left;
+
+	}
+
+.login a:hover{
+
+	text-decoration:underline;
+
+	}
+
+.loginform{
+    
+    float:right;
+	width:496px;
+	height:27px;	
+	margin:4px 100px 0 0;
+	background-color: #164f71;
+	border-radius: 5px;
+    -webkit-box-shadow: 2px 1px 6px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    2px 1px 6px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         2px 1px 6px 0px rgba(50, 50, 50, 0.75);
+    
+	}
+
+.login{
+
+	padding:3px 0 0 4px;
+		
+	}
+
+.login img{
+
+	float:left;
+	padding:0 0 0 4px;
+
+	}
+
+.login form{
+ 
+    float:left;
+	width:278px;
+	margin:1px -4px 0 5px;
+
+	}
+
+.login form input{
+
+	float:left;	
+	width:113px;
+	height:14px;
+	border:1px solid #97a2a6;
+	margin:0 3px 0 1px;
+    font:12px Arial, Helvetica, sans-serif;
+
+	}
+
+.login a{
+
+	margin:0 0 0 -7px;
+	color:#fff;
+	font:11px Arial, Helvetica, sans-serif;
+	text-decoration: none;
+
+	}
+
+.login span{
+
+	color:#fff;
+	font-size:11px;
+
+	}
+
+.form-submit{
+	
+	height:13px;
+	border:none;
+	background:none;
+	color:#fff;
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	cursor: pointer;
+
+	}
+
+ span.remind{
+
+	margin:0 0 0 27px;
+	color: #bfbfbf;
+	text-decoration:underline;
+    font-size:12px;
+
+	}
+
+.nav{
+
+	height:33px;
+	width:85px;
+	background:url(../img/frame.png) no-repeat;
+	float:right;
+	padding:8px 0 0 2px;
+    margin-top: -30px;
+
+	}
+
+.nav img{
+
+	margin:0 -1px 0 10px;
+    width: 9px; height: 11px;
+
+	}
+
+.banner{
+
+	float:left;
+	width:909px;
+	height:237px;
+	background:url(../img/banner.png) no-repeat;
+	margin: -2px 0 6px 0;
+   
+	}
+
+
+.mainmenu{
+
+	width:913px;
+	height:31px;
+	margin:20px 0 0 -1px;
+	border-radius: 5px;
+	background: linear-gradient(#2a2e32, #0a1235);
+    clear: both;
+	-webkit-box-shadow: 0px 3px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 3px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 3px 5px 0px rgba(50, 50, 50, 0.75);
+    border-top: 4px solid #505860; 
+
+	}
+
+.mainmenu ul{
+
+	margin:0px 0px 0 103px;
+	height:30px;
+	width:575px;
+	
+	}
+
+.mainmenu ul li{
+	
+	font:14px Arial, Helvetica, sans-serif;
+	color:#fff;
+	width:105px;
+	float:left;
+	margin:3px -6px 0px 6px;
+	
+	}
+
+.mainmenu li a{
+
+	color:#b1bcc0;
+	padding:2px 30px;
+	display:block;
+	width:100%;
+	text-decoration:none;
+    text-align:center;
+
+	}
+
+
+.mainmenu li :hover{
+
+	color:#fff;
+	text-decoration:none;
+	background:url(../img/fon.png) no-repeat center;
+
+	}
+
+
+.case{
+
+	margin:-27px -1px 0px 0px;
+	height:17px;
+	width:216px;
+	float:right;
+	
+	}
+
+.case span{
+
+	margin: 0 4px 7px 0;
+	color:#899296;
+	font-size:11px;
+
+	}
+
+.case img{
+
+	margin:1px 8px -2px -13px;
+	padding: 0 0 0 0;
+	float:left;
+
+	}
+
+span.price {
+
+	color:#0d5a8f;
+
+    }
+
+.main{
+
+	width:100%;
+	height:auto;
+	margin:160px 0 0 0;
+
+	}
+
+.leftAside {
+
+    float:left;
+	width:190px;
+	height:auto;
+	margin:4px 0 30px 0;
+
+    }
+
+.centerSection {
+
+    float:left;   
+	background:url(../img/TOVAR.png);
+	width:526px;
+	height:628px;
+
+    }
+
+.rightAside {
+   
+	float:right;
+	width:190px;
+	height:auto;	
+	margin:1px -5px 30px 0px;
+
+    }
+
+
+.leftAside-title{
+
+	height:25px;
+	width:156px;
+	padding: 6px 0px 1px 30px;
+	background:url(../img/13.png) no-repeat;
+	font:12.5px "Lucida Sans Unicode", Verdana, Arial;
+
+	}
+
+.leftAside-block{
+
+	height:auto;
+	width:180px;	
+	margin:7px 0 -15px 0;
+
+	}
+
+.leftAside-block-title{
+
+	padding:6px 0 0 31px;
+	display:block;
+	width:122px;
+	height:25px;
+	background:url(../img/14.png) no-repeat;
+	font:13.5px "Lucida Sans Unicode", Verdana, Arial;
+
+	}
+
+.leftAside-item{
+
+	display:block;
+	width:130px;
+	height:26px;
+	padding:0px 0 0 10px;
+	margin:0px 0 0 38px;
+	color:#465961;
+	font:12.5px "Lucida Sans Unicode", Verdana, Arial;
+	background:url(../img/16.png) no-repeat -3px 3px;
+	text-decoration: none;
+
+	}
+
+.leftAside-item:hover{
+
+	font-size:13px;
+	font-style: italic;
+	font-weight:bold;
+	background:url(../img/17.png) no-repeat -3px 3px;
+	color:#0c3256;
+    text-decoration: underline;
+
+	}
+	
+
+.rightAside-title{
+
+	height:25px;
+	width:156px;
+	padding:5px 0 0 33px;
+	background:url(../img/13.png) no-repeat;
+	font:13.5px "Lucida Sans Unicode", Verdana, Arial;
+
+	}
+
+.rightAside-block{
+
+	height:auto;
+	width:180px;
+	margin:10px 0 11px 15px;
+
+	}
+
+.rightAside-block-title{
+
+	padding:6px 1px 0 33px;
+	display:block;
+	width:122px;
+	height:25px;
+	background:url(../img/20.png) no-repeat;
+	font:13.5px "Lucida Sans Unicode", Verdana, Arial;
+
+	}
+
+.rightAside-block-title:hover{
+	
+	background:url(../img/21.png) no-repeat;
+	font:13.5px "Lucida Sans Unicode", Verdana, Arial;
+    cursor: pointer;
+
+	}
+
+
+.rightAside-item {
+
+	display:block;
+	width:145px;
+	height:20px;
+	margin:4px 1px 5px 36px;
+	color:#465961;
+	font:12.5px "Lucida Sans Unicode", Verdana, Arial;
+	text-decoration: none;
+	cursor: pointer;
+
+
+	}
+
+.rightAside-item:hover{
+
+	font-size:13px;
+	font-weight:bold;	
+	color:#0c3256;    
+
+	}
+
+
+.rightAside-choose{
+
+	height:30px;
+	width:83px;
+	background:url(../img/button.png) no-repeat;
+	border:none;
+	margin: 9px 0px 0 9px;
+	cursor:pointer;
+
+	}
+
+
+
+.brandLogo img{
+
+	padding: 38px 0px 0px 118px;
+   
+    }
+
+
+.footer{
+
+	margin:22px 0px 0px 0px;
+	width:910px;
+	height:100px;
+	text-align:center;
+	font-family:Tahoma, Arial, sans-serif;
+	background-color:#213a4d;
+
+	}
+
+.footer img{
+
+	padding: 14px 0px 0px 0px;
+   
+    }
+
+.footer ul{
+
+    padding:8px 0px 2px 0px;
+	
+	}
+
+.footer li {
+
+	display:inline;
+	color:#fff;
+	font-size:13px;
+    text-decoration: none;
+    margin: 0px 2px 0px 3px;
+
+    }
+
+.footer li a{
+	
+	color:#fff;
+	text-decoration: none;
+
+	}
+
+.footer li a:hover{
+
+	color:#4b9cba;
+	text-decoration: none;
+
+	}
+
+input[type="checkbox"] {
+
+display: none;
+
+}
+
+ label {
+ 
+ display: block; 
+ position: relative; 
+
+}
+
+input[type="checkbox"] + span {
+ position: absolute; 
+ left: -27px; top: 2px;
+ width: 100%; height: 100%;
+ background: url(../img/checkbox.png) no-repeat; 
+ cursor: pointer; 
+
+}
+
+
+input[type="checkbox"]:checked + span {
+background:url(../img/checkbox-active.png)no-repeat;
+
+}
+
